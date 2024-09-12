@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=ghcr.io/monlor/embyserver:latest
+ARG BASE_IMAGE=ghcr.io/liruicrecky/embyserver:latest
 
 FROM alpine as base
 
